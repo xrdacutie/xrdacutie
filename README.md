@@ -1,4 +1,6 @@
-### Hi there 👋
+- C#
+- Python
+- Golang
 
 <!--
 **xrdacutie/xrdacutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
