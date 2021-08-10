@@ -3,6 +3,7 @@
 - Python
 - Golang
 
+https://discord.c99.nl/widget/theme-2/857405718834839552.png
 <!--
 **xrdacutie/xrdacutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
