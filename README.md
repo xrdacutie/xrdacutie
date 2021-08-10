@@ -1,7 +1,5 @@
 ### Hi Im xr
 
-
-
 - Python
 - Golang
 
