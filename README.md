@@ -3,6 +3,7 @@
 - Python
 - Golang
 
+<img src="https://komarev.com/ghpvc/?username=xrdacutoe&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22xrdacutie" alt="xrdacutie" /> </p>
 <img src="https://discord.c99.nl/widget/theme-2/857405718834839552.png">
 
 <!--
